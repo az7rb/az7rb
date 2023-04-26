@@ -1,6 +1,2 @@
-<p align="center">
-  <a href="https://github.com/az7rb">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=az7rb&show_icons=true&theme=highcontrast&hide_title=true&hide_rank=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=az7rb&hide=perl,html,css&exclude_repo=&langs_count=6&layout=compact&theme=highcontrast"/>
-  </a>
-</p>
+| <a href="https://github.com/az7rb"><img align="center" src="https://github-readme-stats.vercel.app/api?username=az7rb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="az7rb" /></a> | <a href="https://github.com/az7rb"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=az7rb&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
